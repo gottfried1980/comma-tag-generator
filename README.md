@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Comma-separated Tag and Category Generator Banner" width="100%">
+  <img src="./banner.svg" alt="Comma-separated Tag and Category Generator Banner" width="100%">
 </p>
 
 # Comma-separated Tag and Category Generator
