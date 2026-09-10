@@ -2,15 +2,6 @@
   <img src="./banner.svg" alt="Comma-separated Tag and Category Generator Banner" width="100%">
 </p>
 
-# Comma-separated Tag and Category Generator
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://shields.io" alt="WordPress Compatibility">
-  <img src="https://shields.io" alt="Plugin Version">
-  <img src="https://shields.io" alt="License">
-  <img src="https://shields.io" alt="Supported Languages">
-</p>
-
 ---
 
 ## 🚀 Description
