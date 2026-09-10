@@ -4,12 +4,16 @@
 
 # Comma-separated Tag and Category Generator
 
-<p align="center">
-  <img src="https://shields.io" alt="WordPress Compatibility">
-  <img src="https://shields.io" alt="Plugin Version">
-  <img src="https://shields.io" alt="License">
-  <img src="https://shields.io" alt="Supported Languages">
-</p>
+<div align="center">
+  <table border="0" style="border: none; background: transparent;">
+    <tr>
+      <td style="padding: 5px; border: none;"><img src="https://shields.io" alt="WordPress Compatibility"></td>
+      <td style="padding: 5px; border: none;"><img src="https://shields.io" alt="Plugin Version"></td>
+      <td style="padding: 5px; border: none;"><img src="https://shields.io" alt="License"></td>
+      <td style="padding: 5px; border: none;"><img src="https://shields.io" alt="Supported Languages"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
